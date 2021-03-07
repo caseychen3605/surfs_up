@@ -1,6 +1,8 @@
 # surfs_up
+Click here to view the analysis file: [Surfs_Up_Challenge](https://github.com/caseychen3605/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
+
 ## Overview of Analysis
-The goal of this analysis is to create a basic statistical analysis of the temperatures on Oahu during the months of June and December. This is to help determine whether or not the surf and ice cream shop business is sustainable year-round. By creating a query that captures the temperatures specifically for the months of June and December, we can retrieve information such as average, maximum, and minimum temperatures. Click here to view the analysis file: [Surfs_Up_Challenge](https://github.com/caseychen3605/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
+The goal of this analysis is to create a basic statistical analysis of the temperatures on Oahu during the months of June and December. This is to help determine whether or not the surf and ice cream shop business is sustainable year-round. By creating a query that captures the temperatures specifically for the months of June and December, we can retrieve information such as average, maximum, and minimum temperatures. 
 
 ## Results
 ### June Temperature Analysis
